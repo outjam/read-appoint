@@ -17,3 +17,8 @@
   --ifm-color-primary-lighter: #26a2ff;
   --ifm-color-primary-lightest: #4db2ff;
 }
+
+.docMainContainer_TBSr {
+  max-width: 960px;
+  margin: 0 auto;
+}
