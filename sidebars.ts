@@ -36,6 +36,19 @@ const sidebars: SidebarsConfig = {
     },
     {
       type: 'category',
+      label: 'Приложение',
+      items: [
+        {
+          type: 'category',
+          label: 'Релизы и дистрибуция',
+          items: [
+            'Приложение/Релизы и дистрибуция/Обновление приложения'
+          ]
+        }
+      ]
+    },
+    {
+      type: 'category',
       label: 'Личный кабинет',
       items: [
         {
